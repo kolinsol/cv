@@ -1,0 +1,163 @@
++------------------------------------------------------------------------------+
+|                                                                              |
+|   CONTACT INFO                                                               |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                      |                                       |
+|     name : Yauheni Tsiarokhin        |     email : hihihiko00@gmail.com      |
+|     location : Belarus, Minsk        |     phone : +375257429553             |
+|                                      |     skype : live:hihihiko00_2         |
+|                                      |     github : kolinsol                 |
+|                                      |                                       |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   SHORT SUMMARY                                                              |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   I am a passionate young software developer who wants to have an            |
+|       interesting and useful job. I spend a lot of time trying different     |
+|       technologies and exploring different fields of programming.            |
+|       I enjoy writing functional code and I would really like my job         |
+|       to somehow blend in with my programming interests. That's why          |
+|       I want to use a functional language at work.                           |
+|                                                                              |
+|       I absolutely love Erlang even though it is weird in some places.       |
+|       It is such a unique language with such a unique story and              |
+|       absolutely separate ecosystem. Writing Erlang makes me feel            |
+|       like I have a great power in my hands. I am also fine with Elixir      |
+|       and it would be great to work with this exciting language too.         |
+|                                                                              |
+|       I've tried a reasonable number of languages (functional and not        |
+|       that functional) and I feel that Erlang suits my programing            |
+|       principles the most.                                                   |
+|                                                                              |
+|       So if you want me to participate in your Erlang/Elixir project         |
+|       make sure to contact me!                                               |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   SKILLS                                                                     |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   - English reading/writing C1                                               |
+|                                                                              |
+|         Have lived in the US for several months                              |
+|         Can freely communicate with native speakers                          |
+|             and read technical literature and documentation                  |
+|                                                                              |
+|   - Functional programming                                                   |
+|                                                                              |
+|         Understand and appreciate the value functional programming           |
+|             introduces in theory and in daily work and incorporate           |
+|             it where possible and where it makes sense                       |
+|                                                                              |
+|   - Languages                                                                |
+|                                                                              |
+|         Experienced : JavaScript                                             |
+|                                                                              |
+|         Familiar : Erlang, Elixir                                            |
+|                                                                              |
+|         Somewhat familiar : Scheme, Haskell, Prolog, Idris                   |
+|                             Java, Python, Scala, SML, Rust                   |
+|                                                                              |
+|   - Continuous learning                                                      |
+|                                                                              |
+|         Never feel like there is nothing left to learn                       |
+|             Always digging deeper                                            |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   EXPERIENCE                                                                 |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   EPAM Systems | 2017 - CURRENT MOMENT                                       |
+|                                                                              |
+|   Project description : Developing UI part of an embedded TV system using    |
+|                         pure JavaScript with no frameworks and no browser    |
+|                         (which implies absence of CSS and HTML).             |
+|                                                                              |
+|   Caveats : Requirement to emulate browser to speed up the UI which          |
+|             basically means reimplementing HTML, CSS with EFL at the         |
+|             base level and their creation and manipulation processes.        |
+|                                                                              |
+|   Responsibilities : Most of my time on the project was dedicated to         |
+|                      performance improvements of the previous generation     |
+|                      of the system as it was decided by the customer         |
+|                      that they would like to upgrade the old generation      |
+|                      which is in production use by a large number of people  |
+|                      at the moment rather than to make them buy a new one.   |
+|                                                                              |
+|                      There is a small team dedicated to performance issues   |
+|                      and I am a part of it.                                  |
+|                                                                              |
+|                      During this period I implemented UI testing automation  |
+|                      system which main purpose was to detect memory leaks    |
+|                      caused by poor usage of EFL bindings and it was         |
+|                      successfully integrated in the development cycle        |
+|                                                                              |
+|                      UI architecture was partly rebuild by our team in       |
+|                      order to suit platform specific demands                 |
+|                                                                              |
+|                      Older remote control device handling was fully          |
+|                      implemented with no conflicts with new remote           |
+|                      handling functionality                                  |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   EDUCATION                                                                  |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   Bachelor's degree in Economics and Programming                             |
+|   BSUIR 2014 - 2018                                                          |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   COURSES                                                                    |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   cron.is programming courses | Aug 2017 - Oct 2017                          |
+|   link: https://bit.ly/2vNkh2s                                               |
+|                                                                              |
+|   Imaguru Blockchain School | Mar 2018 - May 2018                            |
+|   link: https://bit.ly/2Oy3ZSb                                               |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   QUICK FACTS                                                                |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|   - Vim is my one and only text editor                                       |
+|                                                                              |
+|   - If something can be done in terminal I'll do it there                    |
+|                                                                              |
+|   - I like exotic technologies                                               |
+|                                                                              |
+|   - Reading technical books constantly                                       |
+|                                                                              |
+|   - Mentoring on Exercism                                                    |
+|                                                                              |
+|   - Learning Spanish                                                         |
+|                                                                              |
+|   - I am a DJ and I like performing live. Check out my music!                |
+|     link: https://bit.ly/2w7EejT                                             |
+|                                                                              |
+|   - Top 1000 on Codewars (used to be top 500). Check out my profile!         |
+|     link: https://bit.ly/2KUBU5g                                             |
+|                                                                              |
+|   - Won a blockchain hackathon within a team. Check out our project!         |
+|     link: https://bit.ly/2KTpwlS                                             |
+|                                                                              |
+|   - I gave a talk at a Functional Programming meetup. Check it out!          |
+|     link: https://bit.ly/2nCQmpi                                             |
+|                                                                              |
+|------------------------------------------------------------------------------|
+|                                                                              |
+|         FEEL FREE TO CONTACT ME! MY LINKEDIN: https://bit.ly/2MjLfJg         |
+|                                                                              |
++------------------------------------------------------------------------------+
