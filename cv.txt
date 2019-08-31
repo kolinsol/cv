@@ -4,10 +4,9 @@
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                      |                                       |
-|     name : Yauheni Tsiarokhin        |     email : hihihiko00@gmail.com      |
+|     name : Yauheni Tsiarokhin        |     email : yauheni@tsiarokhin.me     |
 |     location : Belarus, Minsk        |     phone : +375257429553             |
-|                                      |     skype : live:hihihiko00_2         |
-|                                      |     github : kolinsol                 |
+|                                      |     github : verrchu                  |
 |                                      |                                       |
 |------------------------------------------------------------------------------|
 |                                                                              |
@@ -15,25 +14,16 @@
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
-|   I am a passionate young software developer who wants to have an            |
-|       interesting and useful job. I spend a lot of time trying different     |
-|       technologies and exploring different fields of programming.            |
-|       I enjoy writing functional code and I would really like my job         |
-|       to somehow blend in with my programming interests. That's why          |
-|       I want to use a functional language at work.                           |
-|                                                                              |
-|       I absolutely love Erlang even though it is weird in some places.       |
-|       It is such a unique language with such a unique story and              |
-|       absolutely separate ecosystem. Writing Erlang makes me feel            |
-|       like I have a great power in my hands. I am also fine with Elixir      |
-|       and it would be great to work with this exciting language too.         |
-|                                                                              |
-|       I've tried a reasonable number of languages (functional and not        |
-|       that functional) and I feel that Erlang suits my programing            |
-|       principles the most.                                                   |
-|                                                                              |
-|       So if you want me to participate in your Erlang/Elixir project         |
-|       make sure to contact me!                                               |
+|   I am a passionate software engineer.                                       |
+|   I am constantly seeking new opportunities not only to broaden              |
+|       my knowledge but also to entertain myself during the process.          |
+|   I have a server in my apartment on which among other things                |
+|       i host an SMTP server for my own domain (tsiarokhin.me)                |
+|       and i am so sure about its reliability that it is the only             |
+|       email i included as contact in this CV.                                |
+|   I fell in love with functional programming and since then i am             |
+|       digging deeper into the subject and apply the knowledge                |
+|       for fun and profit.                                                    |
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
@@ -41,31 +31,42 @@
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
-|   - English reading/writing C1                                               |
+|   Spoken Languages:                                                          |
 |                                                                              |
-|         Have lived in the US for several months                              |
-|         Can freely communicate with native speakers                          |
-|             and read technical literature and documentation                  |
+|       - Rusiian (Native)                                                     |
 |                                                                              |
-|   - Functional programming                                                   |
+|       - English (C1)                                                         |
 |                                                                              |
-|         Understand and appreciate the value functional programming           |
-|             introduces in theory and in daily work and incorporate           |
-|             it where possible and where it makes sense                       |
+|             Have lived in the US for several months                          |
+|             Can freely communicate with native speakers                      |
+|                 and read technical literature and documentation              |
 |                                                                              |
-|   - Languages                                                                |
+|       - Spanish (A2)                                                         |
 |                                                                              |
-|         Experienced : JavaScript                                             |
+|             Have studied for several month                                   |
 |                                                                              |
-|         Familiar : Erlang, Elixir                                            |
+|   Functional Programming:                                                    |
 |                                                                              |
-|         Somewhat familiar : Scheme, Haskell, Prolog, Idris                   |
-|                             Java, Python, Scala, SML, Rust                   |
+|       Understand and appreciate functional programming concepts              |
+|           and the value the paradigm introduces in theory and brings         |
+|           into daily job                                                     |
 |                                                                              |
-|   - Continuous learning                                                      |
+|   Programming Languages:                                                     |
 |                                                                              |
-|         Never feel like there is nothing left to learn                       |
-|             Always digging deeper                                            |
+|       Experienced : Erlang, Elixir, Python, JavaScript                       |
+|                                                                              |
+|       Familiar : Scheme, Haskell, Prolog, Idris                              |
+|                  Java, Python, Scala, SML, Rust                              |
+|                                                                              |
+|   Infrastructure Tools:                                                      |
+|                                                                              |
+|       Familiar : Docker, PostgreSQL, MySQL, Redis, RabbitMQ,                 |
+|                  Prometheus, ZooKeeper, Jenkins, Kibana                      |
+|                                                                              |
+|   Continuous Learning:                                                       |
+|                                                                              |
+|       Never feel like there is nothing left to learn                         |
+|           Always digging deeper                                              |
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
@@ -73,37 +74,39 @@
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
-|   EPAM Systems | 2017 - CURRENT MOMENT                                       |
+|   EPAM Systems | Oct 2017 - Oct 2018                                         |
 |                                                                              |
-|   Project description : Developing UI part of an embedded TV system using    |
-|                         pure JavaScript with no frameworks and no browser    |
-|                         (which implies absence of CSS and HTML).             |
+|   Position : Software Engineer                                               |
 |                                                                              |
-|   Caveats : Requirement to emulate browser to speed up the UI which          |
-|             basically means reimplementing HTML, CSS with EFL at the         |
-|             base level and their creation and manipulation processes.        |
+|   Primary Technologies : JavaScript (embedded, no frameworks)                |
 |                                                                              |
-|   Responsibilities : Most of my time on the project was dedicated to         |
-|                      performance improvements of the previous generation     |
-|                      of the system as it was decided by the customer         |
-|                      that they would like to upgrade the old generation      |
-|                      which is in production use by a large number of people  |
-|                      at the moment rather than to make them buy a new one.   |
+|   General Task : Developing UI system for a TV entertainment system          |
 |                                                                              |
-|                      There is a small team dedicated to performance issues   |
-|                      and I am a part of it.                                  |
+|   Duties : Implementing custom window manager.                               |
+|            Implementing automatic testing system aimed at uncovering         |
+|            memory leaks in the UI on different hardware.                     |
 |                                                                              |
-|                      During this period I implemented UI testing automation  |
-|                      system which main purpose was to detect memory leaks    |
-|                      caused by poor usage of EFL bindings and it was         |
-|                      successfully integrated in the development cycle        |
+|   Caveats : The whole system was developed in pure JavaScript                |
+|             with no browser environment. Instead of browser EFL              |
+|             window manager with JavaScript OpenGL binings was used.          |
 |                                                                              |
-|                      UI architecture was partly rebuild by our team in       |
-|                      order to suit platform specific demands                 |
+|------------------------------------------------------------------------------|
 |                                                                              |
-|                      Older remote control device handling was fully          |
-|                      implemented with no conflicts with new remote           |
-|                      handling functionality                                  |
+|   Wargaming | Oct 2018 - PRESENT TIME                                        |
+|                                                                              |
+|   Position : Software Engineer                                               |
+|                                                                              |
+|   Primary Technologies : Erlang/Elixixr                                      |
+|                                                                              |
+|   Duties : Implementing high-load in-game currencies system.                 |
+|            Implementing high-load gateway service.                           |
+|            Implementing third-party billing system custom binary protocol.   |
+|            Implementing Python-Erlang bridge interface for                   |
+|               cluster autotests.                                             |
+|            Covering custom cluster failover mechanish with autotests.        |
+|            Performing week-long periodic dev-side service support.           |
+|                                                                              |
+|   Caveats : Heavily sharded databases and tables                             |
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
@@ -116,36 +119,9 @@
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
-|   COURSES                                                                    |
-|                                                                              |
-|------------------------------------------------------------------------------|
-|                                                                              |
-|   cron.is programming courses | Aug 2017 - Oct 2017                          |
-|   link: https://bit.ly/2vNkh2s                                               |
-|                                                                              |
-|   Imaguru Blockchain School | Mar 2018 - May 2018                            |
-|   link: https://bit.ly/2Oy3ZSb                                               |
-|                                                                              |
-|------------------------------------------------------------------------------|
-|                                                                              |
 |   QUICK FACTS                                                                |
 |                                                                              |
 |------------------------------------------------------------------------------|
-|                                                                              |
-|   - Vim is my one and only text editor                                       |
-|                                                                              |
-|   - If something can be done in terminal I'll do it there                    |
-|                                                                              |
-|   - I like exotic technologies                                               |
-|                                                                              |
-|   - Reading technical books constantly                                       |
-|                                                                              |
-|   - Mentoring on Exercism                                                    |
-|                                                                              |
-|   - Learning Spanish                                                         |
-|                                                                              |
-|   - I am a DJ and I like performing live. Check out my music!                |
-|     link: https://bit.ly/2w7EejT                                             |
 |                                                                              |
 |   - Top 1000 on Codewars (used to be top 500). Check out my profile!         |
 |     link: https://bit.ly/2KUBU5g                                             |
@@ -155,6 +131,9 @@
 |                                                                              |
 |   - I gave a talk at a Functional Programming meetup. Check it out!          |
 |     link: https://bit.ly/2nCQmpi                                             |
+|                                                                              |
+|   - I am a DJ and I like performing live. Check out my music!                |
+|     link: https://bit.ly/2w7EejT                                             |
 |                                                                              |
 |------------------------------------------------------------------------------|
 |                                                                              |
