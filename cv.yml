@@ -1,0 +1,81 @@
+personal:
+    name:
+        first: Yauheni
+        last: Tsiarokhin
+    location:
+        country: Belarus
+        city: Minsk
+    languages:
+        - russian
+        - english
+    contacts:
+        telegram: @ADPXPJS0NS1XBTSD72P14M1F10
+        email: hihihiko00@gmail.com
+        phone: +375257429553
+
+professional:
+    job_title: "Software Engineer"
+    education:
+        - establishment: BSUIR
+          fields:
+              - economics
+              - programming
+          from: 2014
+          to: 2018
+    primary_technologies:
+        - erlang
+        - rust
+    experience:
+        - company: EPAM
+          employed:
+              from: 2017
+              to: 2018
+          projects:
+              - description: "OpenGL-based front-end application for TV sets"
+                technologies: 
+                    - javascript
+                notable_activities:
+                    - "Contributing to view lifecycle management mechanism"
+                    - "Optimizing application's memory footprint"
+                    - "Adopting front-end to an older generation of hardware"
+                    - "Implementing automated solution for memory leak detection"
+        - company: Wargaming
+          employed:
+              from: 2018
+          projects:
+              - description: "Distributed payment system for in-game currencies"
+                technologies:
+                    - erlang
+                    - python
+                    - postgresql
+                    - rabbitmq
+                    - mysql
+                    - zookeeper
+                notable_activities:
+                    - "Implementing network monitoring for detecting netsplits"
+                    - "Implementing erlang-python bridge for autotesting needs"
+                    - "implementing failover autotesting system"
+              - description: "Gateway service"
+                technologies:
+                    - elixir
+                    - rabbitmq
+                    - redis
+              - description: "Real-time in-game bonus management system"
+                technologies:
+                    - elixir
+                    - rabbitmq
+                notable_activities:
+                    - "Implementing third-party binary protocol"
+                    - "Implementing SAGA pattern"
+              - description: "(Another) Gateway service"
+                technologies:
+                    - rust
+                    - rabbitmq
+                notable_activities:
+                    - "Implementing compile-time config validation mechanism"
+              - description: "In-game clans service"
+                technologies:
+                    - rust
+                    - postgresql
+                    - zookeeper
+                    - rabbitmq
